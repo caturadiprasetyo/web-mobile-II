@@ -1,0 +1,171 @@
+body {
+    line-height: 1.6;
+}
+
+h2 {
+    color: #182080;
+}
+
+h5 {
+    color: #182080;
+}
+
+.carousel img {
+    height: 900%;
+    /* Sesuaikan tinggi slider */
+    object-fit: cover;
+    /* Menjaga proporsi gambar */
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    /* Latar belakang transparan untuk teks */
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-link {
+    color: #007bff;
+    /* Warna biru */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0056b3;
+    /* Warna biru lebih gelap saat hover */
+}
+
+
+/* Custom Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+h2,
+h3 {
+    color: #007bff;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #555;
+}
+
+.list-group-item {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+
+/*kontak*/
+
+
+/* Center the contact section */
+
+.contact-section {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    /* Horizontally center the content */
+    align-items: center;
+    /* Vertically center the content */
+    min-height: 300px;
+    /* Ensure there is space for centering */
+}
+
+
+/* Styling for contact box */
+
+.contact-box {
+    background-color: #f1f1f1;
+    /* Light grey background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    /* Make the contact box responsive */
+    max-width: 600px;
+    /* Set a maximum width */
+    text-align: left;
+    /* Align text to the left inside the box */
+}
+
+
+/* Style for individual contact details */
+
+.contact-box p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+/* Button styling */
+
+.contact-box a {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #007bff;
+    /* Blue color for button */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.contact-box a:hover {
+    background-color: #0056b3;
+    /* Darker blue for hover effect */
+}
+
+
+/* Styling for footer with blue line */
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 3px solid #007bff;
+    /* Blue line under footer */
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+
+/* Navbar */
+
+.navbar {
+    background-color: #ffffff;
+    padding: 10px 0;
+    /* Reduced padding */
+}
+
+.navbar .navbar-brand img {
+    height: 50px;
+    /* Reduced the height of the logo */
+}
+
+.navbar-nav a {
+    font-weight: bold;
+    font-size: 14px;
+    /* Reduced font size */
+}
+
+.navbar-toggler {
+    border-color: #007bff;
+}
+
+
+/*....>*/
